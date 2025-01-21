@@ -1,4 +1,3 @@
-![MasterHead]
 # 💫 About Me:
 🌱 I’m currently learning APP DEV/AIML (Flutter , Torch...)
 
